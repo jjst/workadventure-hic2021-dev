@@ -2754,28 +2754,8 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
-         "columns":0,
          "firstgid":1898,
-         "margin":0,
-         "name":"numbers",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":1,
-         "tilewidth":1
-        }, 
-        {
-         "columns":10,
-         "firstgid":1898,
-         "image":"..\/resources\/Number_Blocks_01\/Number_Blocks_01\/ALL_Number_Blocks_01_Set_64x64.png",
-         "imageheight":320,
-         "imagewidth":640,
-         "margin":0,
-         "name":"Number_Blocks_01_Set_64x64",
-         "spacing":0,
-         "tilecount":50,
-         "tileheight":64,
-         "tilewidth":64,
-         "transparentcolor":"#ffffff"
+         "source":"number_blocks_01.json"
         }],
  "tilewidth":32,
  "type":"map",
