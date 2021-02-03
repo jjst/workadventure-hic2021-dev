@@ -2754,8 +2754,25 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":10,
          "firstgid":1898,
-         "source":"number_blocks_01.json"
+         "image":"number_blocks_01_set_64x64.png",
+         "imageheight":320,
+         "imagewidth":640,
+         "margin":0,
+         "name":"number_blocks_01",
+         "spacing":0,
+         "tilecount":50,
+         "tileheight":64,
+         "tilewidth":64,
+         "transformations":
+            {
+             "hflip":false,
+             "preferuntransformed":false,
+             "rotate":true,
+             "vflip":false
+            },
+         "transparentcolor":"#ffffff"
         }],
  "tilewidth":32,
  "type":"map",
