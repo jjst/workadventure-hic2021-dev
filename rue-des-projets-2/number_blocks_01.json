@@ -1,0 +1,22 @@
+{ "columns":10,
+ "image":"number_blocks_01_set_64x64.png",
+ "imageheight":320,
+ "imagewidth":640,
+ "margin":0,
+ "name":"number_blocks_01",
+ "spacing":0,
+ "tilecount":50,
+ "tiledversion":"2021.01.13",
+ "tileheight":64,
+ "tilewidth":64,
+ "transformations":
+    {
+     "hflip":false,
+     "preferuntransformed":false,
+     "rotate":true,
+     "vflip":false
+    },
+ "transparentcolor":"#ffffff",
+ "type":"tileset",
+ "version":1.4
+}
